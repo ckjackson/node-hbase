@@ -31,7 +31,7 @@
     "node": ">= 0.1.90"
   },
   "optionalDependencies": {
-    "krb5": "^0.1.0"
+    "krb5": "https://github.com/ckjackson/node-krb5/tarball/f997ee2d1108ad18316fe409d64cf7d1879683b6"
   },
   "devDependencies": {
     "coffee-script": "^1.12.6",
